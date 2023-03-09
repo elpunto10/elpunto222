@@ -9,4 +9,4 @@ Da un ejemplo Instalación 🔧 Una serie de ejemplos paso a paso que te dice lo
 
 Dí cómo será ese paso
 
-Algunas webs permitidas para realizar la acción: http://enlineanoticias.mx/ http://tiemponoticias.mx/ http://amanecerciudadano.mx/ http://elpuntonoticias.mx http://alertamexico.mx http://visionmexico.mx http://elpuntonoticias.mx & http://alertamexico.mx & http://visionmexico.mx
+Algunas webs permitidas para realizar la acción: http://enlineanoticias.mx/ http://tiemponoticias.mx/ http://amanecerciudadano.mx/ http://elpuntonoticias.mx http://alertamexico.mx http://visionmexico.mx http://elpuntonoticias.mx & http://alertamexico.mx & http://visionmexico.mx http://todoemprendedor.cl/ & http://prensainforma.cl/ & http://despertarmexico.mx
